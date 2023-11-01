@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=30&duration=2000&color=1E698AAC&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hi+%2CI'm+Mohamed;Cyber+Security)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Felipa&size=30&duration=2200&pause=5&color=A35BA9&center=true&vCenter=true&multiline=true&random=false&width=435&height=100&lines=Hi+%2CI'm+Mohamed;Cyber+Security)](https://git.io/typing-svg)
 
 - i am a Cyber Security / frontend engineer ⚛️ (React ✨ TS ) <img align="left" target="_blank" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> - 👀 I’m interested in web programming
 
